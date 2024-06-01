@@ -1,3 +1,5 @@
+![ logo](https://github.com/RiyaaChauhan/RiyaaChauhan/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Riya Chauhan</h1>
 <h3 align="center">A passionate developer</h3>
 
