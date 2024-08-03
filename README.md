@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="riyaachauhan" /> </p>
 
-- 📫 How to reach me **riyacchauhan12@gmail.com**
+- 📫 mail me at **riyacchauhan12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
